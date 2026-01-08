@@ -31,7 +31,7 @@ toml==0.10.2
 tornado==6.5
 tweepy==3.10.0
 tzlocal==2.1
-urllib3==2.6.0
+urllib3==2.6.3
 waitress==3.0.1
 Werkzeug==3.1.4
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
